@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Tanmay%20Gautam&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Tanmay%20Gautam&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="header"/>
 </p>
 
 <!-- Stylish Static MERN Stack Developer Banner -->
