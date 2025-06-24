@@ -51,6 +51,7 @@ Hi! I'm **Tanmay Gautam**, a passionate MERN Stack developer focused on building
     </td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br/>Python</td>
     <td align="center"><img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="40"/><br/>Shadcn</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40"/><br/>Tailwind CSS</td>
   </tr>
 </table>
 
