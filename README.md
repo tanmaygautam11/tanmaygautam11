@@ -76,9 +76,13 @@ More projects are available on my [GitHub Profile](https://github.com/tanmaygaut
 
 ## 🌐 Personal Website
 
-<!-- 👉 [My Personal Website](#) -->
 <p align="center">
-  <b>Coming soon: Personal website link here!</b>
+  <a href="https://tanmaygautam11.github.io/portfolio-website/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-2a5298?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1e3c72" alt="Portfolio Website"/>
+  </a>
+</p>
+<p align="center">
+  <b>✨ Explore my work, journey, and more at my personal portfolio! ✨</b>
 </p>
 
 ---
