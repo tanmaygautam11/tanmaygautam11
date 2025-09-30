@@ -73,6 +73,47 @@ More projects are available on my [GitHub Profile](https://github.com/tanmaygaut
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanmaygautam11&theme=dark" alt="GitHub Streak" />
 </p>
 
----## 📚 Most Used Languages
+---
+
+## 📚 Most Used Languages
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaygautam11&layout=compact&theme=dark&langs_count=8&hide=Jupyter%20Notebook)
+
+---
+
+## 🌐 Personal Website
+
+<p align="center">
+  <a href="https://tanmaygautam11.github.io/portfolio-website/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-2a5298?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1e3c72" alt="Portfolio Website"/>
+  </a>
+</p>
+<p align="center">
+  <b>✨ Explore my work, journey, and more at my personal portfolio! ✨</b>
+</p>
+
+---
+
+## 📫 Contact
+
+<p align="left">
+  <a href="mailto:gautamtanmay11@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="44" alt="Gmail" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=300&color=FFB300&center=true&vCenter=true&width=900&lines=Thanks+for+visiting+my+GitHub+Profile!;Let's+connect+and+build+something+amazing+together!" />
+</p>
+
+<p align="center">
+  <em>
+    <span style="font-size: 1.25em; color: #2a5298; font-weight: bold;">
+      ✨ Wishing you endless creativity and happy coding! ✨
+      <br/>
+      <span style="color: #47a248;">Feel free to connect, collaborate, or just say hello! 😊</span>
+    </span>
+  </em>
+</p>
