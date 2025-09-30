@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Tanmay Gautam**, a passionate MERN Stack developer focused on building modern, scalable, and responsive web applications. My work is driven by curiosity, creativity, and a love for seamless digital experiences.
+Hi! I'm **Tanmay Gautam**, a passionate MERN Stack developer focused on building modern, scalable, and responsive web applications. My work is driven by curiosity, creativity, and a love for seamless user experiences.
 
 ---
 
@@ -66,6 +66,15 @@ More projects are available on my [GitHub Profile](https://github.com/tanmaygaut
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanmaygautam11&show_icons=true&theme=dark" alt="Tanmay's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanmaygautam11&theme=dark" alt="GitHub Streak" />
+</p>
+
+---
+
 ## 📚 Most Used Languages
 
 <p>
@@ -98,7 +107,7 @@ More projects are available on my [GitHub Profile](https://github.com/tanmaygaut
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=300&color=FFB300&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+GitHub+Profile!;Let%E2%80%99s+build+something+amazing+together+%F0%9F%94%A5;Keep+learning%2C+keep+growing+%F0%9F%9A%80" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=300&color=FFB300&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+GitHub+Profile!;Let%E2%80%99s+connect+and+build+something+amazing+together!"/>
 </p>
 
 <p align="center">
