@@ -68,8 +68,8 @@ More projects are available on my [GitHub Profile](https://github.com/tanmaygaut
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanmaygautam11&show_icons=true&theme=dark" alt="Tanmay's GitHub stats" />
+<p align="left" style="gap: 16px; display: flex; flex-direction: row;">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanmaygautam11&show_icons=true&theme=dark&hide=stars" alt="Tanmay's GitHub stats" style="margin-right:12px;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanmaygautam11&theme=dark" alt="GitHub Streak" />
 </p>
 
@@ -77,45 +77,5 @@ More projects are available on my [GitHub Profile](https://github.com/tanmaygaut
 
 ## 📚 Most Used Languages
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaygautam11&layout=compact&theme=dark" alt="Most Used Languages" />
-</p>
-
----
-
-## 🌐 Personal Website
-
-<p align="center">
-  <a href="https://tanmaygautam11.github.io/portfolio-website/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-2a5298?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1e3c72" alt="Portfolio Website"/>
-  </a>
-</p>
-<p align="center">
-  <b>✨ Explore my work, journey, and more at my personal portfolio! ✨</b>
-</p>
-
----
-
-## 📫 Contact
-
 <p align="left">
-  <a href="mailto:gautamtanmay11@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="44" alt="Gmail" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=300&color=FFB300&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+GitHub+Profile!;Let%E2%80%99s+connect+and+build+something+amazing+together!"/>
-</p>
-
-<p align="center">
-  <em>
-    <span style="font-size: 1.25em; color: #2a5298; font-weight: bold;">
-      ✨ Wishing you endless creativity and happy coding! ✨
-      <br/>
-      <span style="color: #47a248;">Feel free to connect, collaborate, or just say hello! 😊</span>
-    </span>
-  </em>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaygautam11&layout=compact&theme=dark&langs_count=8&hide=Jupyter%20Notebook
