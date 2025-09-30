@@ -73,9 +73,6 @@ More projects are available on my [GitHub Profile](https://github.com/tanmaygaut
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanmaygautam11&theme=dark" alt="GitHub Streak" />
 </p>
 
----
+---## 📚 Most Used Languages
 
-## 📚 Most Used Languages
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaygautam11&layout=compact&theme=dark&langs_count=8&hide=Jupyter%20Notebook
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaygautam11&layout=compact&theme=dark&langs_count=8&hide=Jupyter%20Notebook)
